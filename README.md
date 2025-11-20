@@ -1,4 +1,4 @@
-# Automated Job Description Analyzer (GenAI/Data)
+## Automated Job Description Analyzer (GenAI)
 
 ## LLM-powered analysis of 10 US job descriptions for a target role → strict **JSON** with:
 - Top 3 programming languages
