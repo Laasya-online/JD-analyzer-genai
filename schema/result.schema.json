@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "target_role": { "type": "string" },
+    "top_programming_languages": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 3,
+      "maxItems": 3
+    },
+    "top_skills": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 3,
+      "maxItems": 3
+    },
+    "biggest_skill_gap": { "type": "string" },
+    "notes": { "type": "string" }
+  },
+  "required": [
+    "target_role",
+    "top_programming_languages",
+    "top_skills",
+    "biggest_skill_gap"
+  ],
+  "additionalProperties": false
+}
