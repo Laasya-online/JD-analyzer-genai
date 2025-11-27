@@ -1,4 +1,5 @@
 [![Validate result.json](https://github.com/Laasya-online/JD-analyzer-genai/actions/workflows/validate-json.yml/badge.svg)](https://github.com/Laasya-online/JD-analyzer-genai/actions/workflows/validate-json.yml)
+[![Security scan](https://github.com/Laasya-online/JD-analyzer-genai/actions/workflows/security.yml/badge.svg)](https://github.com/Laasya-online/JD-analyzer-genai/actions/workflows/security.yml)
 
 ## Automated Job Description Analyzer (GenAI)
 
