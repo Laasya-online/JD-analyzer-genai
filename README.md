@@ -1,4 +1,4 @@
-[![Validate JSON](https://github.com/laasya-online/<jd-analyzer-repo>/actions/workflows/validate-json.yml/badge.svg)](https://github.com/<your-username>/<jd-analyzer-repo>/actions/workflows/validate-json.yml)
+[![Validate result.json](https://github.com/Laasya-online/JD-analyzer-genai/actions/workflows/validate-json.yml/badge.svg)](https://github.com/Laasya-online/JD-analyzer-genai/actions/workflows/validate-json.yml)
 
 ## Automated Job Description Analyzer (GenAI)
 
