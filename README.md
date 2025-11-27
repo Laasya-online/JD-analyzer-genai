@@ -1,3 +1,5 @@
+[![Validate JSON](https://github.com/laasya-online/<jd-analyzer-repo>/actions/workflows/validate-json.yml/badge.svg)](https://github.com/<your-username>/<jd-analyzer-repo>/actions/workflows/validate-json.yml)
+
 ## Automated Job Description Analyzer (GenAI)
 
 ## LLM-powered analysis of 10 US job descriptions for a target role → strict **JSON** with:
