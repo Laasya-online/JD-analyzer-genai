@@ -12,7 +12,8 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Validate against schema
-        uses: laasya-online/json-validate@v1
+        uses: laasya-online/json-validate@v1.0.1
         with:
           json_path: artifacts/result.json
           schema_path: schema/result.schema.json
+
